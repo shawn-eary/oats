@@ -52,7 +52,9 @@ https://www.developer.amazon.com/docs/fire-tv/webapp-app-tester.html \
 https://www.geeksforgeeks.org/javascript-removeeventlistener-method-with-examples/ \
 https://www.sitepoint.com/a-minimal-html-document-html5-edition/ \
 https://www.w3schools.com/jsref/jsref_concat_array.asp \
-https://www.youtube.com/watch?v=E34H1ntipn0
+https://www.youtube.com/watch?v=E34H1ntipn0 \
+https://sabe.io/tutorials/how-to-create-modal-popup-box \
+https://weekendprojects.dev/posts/9-css-round-button-examples/
 
 ### Tool Chain
 The following software was used in the development of OATS: 
