@@ -62,7 +62,7 @@ Microsoft Visual Studio Code\
 GNU Make and Standard GNU\Linux Commands such as Sed and zip\
 Firefox and Google Chome (Research and App Testing)\
 KDENLive (For Demo Video)\
-Cubase 10.5 (Post Processing of Audio for Demo Video)
+Cubase 10.5 (Post Processing of Audio for Demo Video)\
 HTMLMinifier (Juriy Zaytsev)
 
 ### Libraries/Dependencies
